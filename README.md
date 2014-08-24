@@ -34,5 +34,5 @@ Taken from a <a href="http://stackoverflow.com/a/531590/1002152">Stack Overflow 
 <li><a href="http://msdevshow.com/">MS Dev Show</a></li>
 </ul>
 
-My idea is to show the most recent date to the title of each one.
+My idea is to add the last published date to the title of each one with node js and cheerios (see last_updated.js for a sample).
 
